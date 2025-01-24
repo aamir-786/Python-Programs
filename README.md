@@ -1,2 +1,2 @@
 # Python-Programs
-Here You will get Simple Ppython Programs with API Integration.
+Here You will get Simple Python Programs with API Integration.
